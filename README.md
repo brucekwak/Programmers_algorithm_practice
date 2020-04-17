@@ -1,7 +1,7 @@
 # Programmers algorithm practice
 [프로그래머스](https://programmers.co.kr/learn/challenges) 알고리즘 & 1일 1커밋 훈련
 
-#### Level.1
+### Level.1
 |  <center>문제</center> |  <center>메모</center> |
 |:--------:|:--------:|
 | <center> [모의고사](./lv1_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.py) </center> | <center> 완전탐색(Brute-Force search) </center> |
@@ -11,7 +11,7 @@
 | <center> [완주하지 못한 선수](./lv1_%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.py) </center> | <center>  sort(파이썬 내장함수:=timesort) </center> |
 
 
-#### Level.2
+### Level.2
 |  <center>문제</center> |  <center>메모</center> |
 |:--------:|:--------:|
 | <center> [소수 찾기](./lv2_%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.py) </center> | <center> Brute-Force, 에라토스테네스의 체 </center> |
@@ -21,7 +21,7 @@
 | <center> [탑](./lv2_%ED%83%91.py) </center> | <center> range(n, -1, -1) </center> |
 
 
-#### Level.3
+### Level.3
 |  <center>문제</center> |  <center>메모</center> |
 |:--------:|:--------:|
 | <center> 단어 변환 </center> | <center> Queue </center> |
@@ -31,7 +31,7 @@
 | <center> [예산](./lv3_%EC%98%88%EC%82%B0.py) </center> | <center> 이진 탐색(Binary search) </center> |
 
 
-#### Level.4
+### Level.4
 |  <center>문제</center> |  <center>메모</center> |
 |:--------:|:--------:|
 | <center> [사칙연산](./lv4_%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0.py) </center> | <center> Dynamic Programming(DP, 동적계획법) </center> |
