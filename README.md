@@ -35,3 +35,9 @@
 |  <center>문제</center> |  <center>메모</center> |
 |:--------:|:--------:|
 | <center> [사칙연산](./lv4_%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0.py) </center> | <center> Dynamic Programming(DP, 동적계획법) </center> |
+
+### 기출
+|  <center>문제</center> |  <center>메모</center> | <center>출처</center> |
+|:--------:|:--------:|:--------:|
+| <center> [징검다리 건너기](./2019%20%EC%B9%B4%EC%B9%B4%EC%98%A4%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B2%A8%EC%9A%B8%EC%9D%B8%ED%84%B4%EC%8B%AD_%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%20%EA%B1%B4%EB%84%88%EA%B8%B0.py) </center> | <center> Binary search </center> | <center> 2019 카카오개발자 겨울인턴십 </center> |
+| <center> [크레인 인형뽑기](./2019%20%EC%B9%B4%EC%B9%B4%EC%98%A4%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B2%A8%EC%9A%B8%EC%9D%B8%ED%84%B4%EC%8B%AD_%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84.py) </center> | <center> for문 </center> | <center> 2019 카카오개발자 겨울인턴십 </center> |
