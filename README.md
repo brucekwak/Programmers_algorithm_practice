@@ -24,7 +24,7 @@
 ### Level.3
 |  <center>문제</center> |  <center>메모</center> |
 |:--------:|:--------:|
-| <center> 단어 변환 </center> | <center> Queue </center> |
+| <center> [단어 변환](./lv3_%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.py) </center> | <center> Queue </center> |
 | <center> [가장 먼 노드](./lv3_%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EB%85%B8%EB%93%9C.py) </center> | <center> 너비우선탐색(Breath-First Search(BFS), Queue </center> |
 | <center> [네트워크](./lv3_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.py) </center> | <center> DFS 반복 </center> |
 | <center> [단어변환](./lv3_%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.py) </center> | <center> BFS 반복 </center> |
