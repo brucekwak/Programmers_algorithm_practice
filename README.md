@@ -20,7 +20,8 @@
 | <center> [타겟넘버](./lv2_%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84.py) </center> | <center> 깊이우선탐색(Depth-First Search(DFS) </center> |
 | <center> [탑](./lv2_%ED%83%91.py) </center> | <center> range(n, -1, -1) </center> |
 | <center> [위장](./lv2_%EC%9C%84%EC%9E%A5.py) </center> | <center> 해시 </center> |
-
+| <center> [쇠막대기](./lv2_%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0.py) </center> | <center> str.replace('()', 0) </center> |
+| <center> [주식가격](./lv2_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.py) </center> | <center> - </center> |
 
 ### Level.3
 |  <center>문제</center> |  <center>메모</center> |
@@ -31,7 +32,7 @@
 | <center> [단어변환](./lv3_%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.py) </center> | <center> BFS 반복 </center> |
 | <center> [예산](./lv3_%EC%98%88%EC%82%B0.py) </center> | <center> 이진 탐색(Binary search) </center> |
 | <center> [베스트앨범](./lv3_%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.py) </center> | <center> 해시 </center> |
-
+| <center> [프린터](./lv3_%ED%94%84%EB%A6%B0%ED%84%B0.py) </center> | <center> 큐 </center> |
 
 ### Level.4
 |  <center>문제</center> |  <center>메모</center> |
