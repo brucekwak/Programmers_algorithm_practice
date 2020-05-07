@@ -19,6 +19,7 @@
 | <center> [전화번호목록](./lv2_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D.py) </center> | <center> 정렬 </center> |
 | <center> [타겟넘버](./lv2_%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84.py) </center> | <center> 깊이우선탐색(Depth-First Search(DFS) </center> |
 | <center> [탑](./lv2_%ED%83%91.py) </center> | <center> range(n, -1, -1) </center> |
+| <center> [위장](./lv2_%EC%9C%84%EC%9E%A5.py) </center> | <center> 해시 </center> |
 
 
 ### Level.3
@@ -29,6 +30,7 @@
 | <center> [네트워크](./lv3_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.py) </center> | <center> DFS 반복 </center> |
 | <center> [단어변환](./lv3_%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.py) </center> | <center> BFS 반복 </center> |
 | <center> [예산](./lv3_%EC%98%88%EC%82%B0.py) </center> | <center> 이진 탐색(Binary search) </center> |
+| <center> [베스트앨범](./lv3_%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.py) </center> | <center> 해시 </center> |
 
 
 ### Level.4
