@@ -36,6 +36,7 @@
 |:--------:|:--------:|
 | <center> [사칙연산](./lv4_%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0.py) </center> | <center> Dynamic Programming(DP, 동적계획법) </center> |
 | <center> [게임맵 최단거리](./lv4_%EA%B2%8C%EC%9E%84%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.py) </center> | <center> BFS </center> |
+| <center> [서울에서 경산까지](./lv4_%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B2%BD%EC%82%B0%EA%B9%8C%EC%A7%80.py) </center> | <center> DP </center> |
 
 ### 기출
 |  <center>문제</center> |  <center>메모</center> | <center>출처</center> |
