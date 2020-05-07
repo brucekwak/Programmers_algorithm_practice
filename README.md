@@ -23,6 +23,9 @@
 | <center> [쇠막대기](./lv2_%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0.py) </center> | <center> str.replace('()', 0) </center> |
 | <center> [주식가격](./lv2_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.py) </center> | <center> - </center> |
 | <center> [H-index](./lv2_H-index.py) </center> | <center> 정렬 </center> |
+| <center> [숫자야구](./lv2_%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC.py) </center> | <center> 완전 탐색 </center> |
+| <center> [카펫](./lv2_%EC%B9%B4%ED%8E%AB.py) </center> | <center> 완전 탐색 </center> |
+
 
 ### Level.3
 |  <center>문제</center> |  <center>메모</center> |
