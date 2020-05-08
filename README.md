@@ -25,6 +25,7 @@
 | <center> [H-index](./lv2_H-index.py) </center> | <center> 정렬 </center> |
 | <center> [숫자야구](./lv2_%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC.py) </center> | <center> 완전 탐색 </center> |
 | <center> [카펫](./lv2_%EC%B9%B4%ED%8E%AB.py) </center> | <center> 완전 탐색 </center> |
+| <center> [라면공장](./lv2_%EB%9D%BC%EB%A9%B4%EA%B3%B5%EC%9E%A5.py) </center> | <center> 힙 </center> |
 
 
 ### Level.3
