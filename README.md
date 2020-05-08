@@ -38,6 +38,7 @@
 | <center> [예산](./lv3_%EC%98%88%EC%82%B0.py) </center> | <center> 이진 탐색(Binary search) </center> |
 | <center> [베스트앨범](./lv3_%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.py) </center> | <center> 해시 </center> |
 | <center> [프린터](./lv3_%ED%94%84%EB%A6%B0%ED%84%B0.py) </center> | <center> 큐 </center> |
+| <center> [입국심사](./lv3_%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.py) </center> | <center> 이분 탐색 </center> |
 
 ### Level.4
 |  <center>문제</center> |  <center>메모</center> |
