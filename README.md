@@ -26,6 +26,7 @@
 | <center> [숫자야구](./lv2_%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC.py) </center> | <center> 완전 탐색 </center> |
 | <center> [카펫](./lv2_%EC%B9%B4%ED%8E%AB.py) </center> | <center> 완전 탐색 </center> |
 | <center> [라면공장](./lv2_%EB%9D%BC%EB%A9%B4%EA%B3%B5%EC%9E%A5.py) </center> | <center> 힙 </center> |
+| <center> [큰 수 만들기](./lv2_%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.py) </center> | <center> 탐욕법 </center> |
 
 
 ### Level.3
